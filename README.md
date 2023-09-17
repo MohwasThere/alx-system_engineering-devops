@@ -1,1 +1,1 @@
-using the bash in basic ways
+Testing out the basics of shell bash in linux ubuntu
